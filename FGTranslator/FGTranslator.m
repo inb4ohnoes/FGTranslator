@@ -9,7 +9,7 @@
 #import "FGTranslator.h"
 #import "FGTranslateRequest.h"
 #import "NSString+FGTranslator.h"
-#import <AFNetworking.h>
+#import "AFNetworking.h"
 
 typedef NSInteger FGTranslatorState;
 
